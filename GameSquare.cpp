@@ -6,7 +6,7 @@
 using namespace std;
 
 int main()
-{asdasd
+{
 	srand(time(NULL));
 	const int n = 5;
 	int playerPos[n][n], aiPos[n][n],ai,player,h=4,m=0;
