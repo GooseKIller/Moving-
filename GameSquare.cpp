@@ -5,7 +5,7 @@
 
 using namespace std;
 
-int main()
+int main()dlfa'sld'a;ld
 {
 	srand(time(NULL));
 	const int n = 5;
