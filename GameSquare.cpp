@@ -2,7 +2,7 @@
 #include <time.h>
 #include <ctime>
 #include <iomanip>
-\\d
+\\\d
 using namespace std;
 
 int main()
