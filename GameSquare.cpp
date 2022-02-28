@@ -4,7 +4,7 @@
 #include <iomanip>
 
 using namespace std;
-
+//i 
 int main()
 {
 	srand(time(NULL));
