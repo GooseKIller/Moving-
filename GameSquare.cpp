@@ -4,7 +4,7 @@
 #include <iomanip>
 
 using namespace std;
-//i hate
+//i hate school
 int main()
 {
 	srand(time(NULL));
